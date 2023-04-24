@@ -8,8 +8,8 @@
   </p>
 </div>
 
-<h2 align="center">About me</h2>
-
+<!-- <h2 align="center">About me</h2>
+ -->
 <p align="center"></p>
 
 <h2 align="center">Languages</h2>
