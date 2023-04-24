@@ -36,5 +36,5 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/Meljska-Fawn/Meljska-Fawn/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  ![Snake animation](https://github.com/Meljska-Fawn/Meljska-Fawn/blob/output/github-contribution-grid-snake.svg)
 </div>
