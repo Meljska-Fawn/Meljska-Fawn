@@ -34,7 +34,3 @@
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meljska-Fawn&layout=compact&theme=dark" alt="Top Langs"/>
   </a>
 </p>
-
-<!-- <div align="center">
-  ![Snake animation](https://github.com/Meljska-Fawn/Meljska-Fawn/blob/output/github-contribution-grid-snake.svg)
-</div> -->
