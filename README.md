@@ -1,16 +1,11 @@
-<h1 align="center"> Melissa Vaughn - Full Stack Developer </h1>
+<h1 align="center"> Melissa Vaughn | Full-Stack Web Developer </h1>
 
 <div>
   <p align="center">
-  <a href="https://www.instagram.com/melissa.lavaughn/">Instagram</a> •
   <a href="https://www.linkedin.com/in/melissa-vaughn-663b35226/">LinkedIn</a> •
-  <a href="mailto:meli.explores@gmail.com">E-mail</a>
+  <a href="mailto:meli.explores@gmail.com">Email</a>
   </p>
 </div>
-
-<!-- <h2 align="center">About me</h2>
- -->
-<p align="center"></p>
 
 <h2 align="center">Languages</h2>
 
