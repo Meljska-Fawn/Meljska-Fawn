@@ -27,6 +27,6 @@
     <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Meljska-Fawn&theme=dark" alt="Melissa's GitHub stats"/>
   </a>
   <a href="https://github.com/Meljska-Fawn/github-readme-stats">
-    <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Meljska-Fawn&langs_count=5&layout=compact&hide=css,handlebars,html&theme=dark" alt="Top Langs"/>
+    <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Meljska-Fawn&langs_count=5&layout=compact&hide=handlebars&theme=dark" alt="Top Langs"/>
   </a>
 </p>
