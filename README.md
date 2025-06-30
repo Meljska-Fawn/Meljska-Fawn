@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=blueviolet&logo=MongoDB&logoColor=FFFFFF&label="/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=important&logo=npm&logoColor=FFFFFF&label="/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=green&logo=Node.js&logoColor=FFFFFF&label="/>
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Handlebars.js&color=blueviolet&logo=Handlebars.js&logoColor=FFFFFF&label="/>
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=yellow&logo=MySQL&logoColor=FFFFFF&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=blueviolet&logo=TypeScript&logoColor=FFFFFF&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=yellow&logo=Python&logoColor=FFFFFF&label="/>
 </p>
 
 <p align="center"> 
